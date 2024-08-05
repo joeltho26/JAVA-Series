@@ -1,5 +1,8 @@
 public class SimpleClass {
     public static void main(String[] args) {
-        System.out.printf("Hello and welcome!");
+        String value = "welcome!";
+        System.out.printf("Hello and %s%n",value);
+        System.out.println("Time to rise!");
+        System.out.print("See you soon!");
     }
 }
