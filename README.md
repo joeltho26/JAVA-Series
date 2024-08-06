@@ -85,3 +85,14 @@ Try this:
 ## If not using an IDE then perform the below steps to run the java program
 - javac Main.java (Main.java is the file and also the class "Main")
 - java Main
+
+## Code Comparison in IntelliJ
+### Method 1:
+- Download the zip file of other user's code 
+- Right-click the file we need to compare on intelliJ
+- Select "Compare With" option and navigate to the downloaded file folder and open
+- left side is current file & right side is downloaded file
+- ">>" to update the downloaded file (right-side) with current file (left-side) changes and "<<" is vice versa.
+### Method 2:
+- Right-click the code file and select Local History -> Show History option
+- Once opened the Local History, right-click the files versions on the left side and select revert option to make necessary changes
