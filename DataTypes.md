@@ -8,8 +8,20 @@
     - int, byte, short, long (L = used end of the value)
 - Real Numbers:
     - double (D = used end of the value or not necessary), float (F = used end of the value)
-- Others:
-    - char (single quotes) & boolean
+  - Others:
+      - char (single quotes) & boolean
+  ```
+    Primitve type variables:
+  
+     int value = 5;
+     float pi = 3.14F;
+     long stars = 648950012L;
+     double stars = 243525D;
+     byte num = 12;
+     short digits = 10;
+     boolean isAdult = true;
+     char alphabet = 'A';
+  ```
 
 ### Primitive data types & its Memory:
 - byte => 1 byte (8 bits)
@@ -34,35 +46,56 @@
 ### Casting:
 - Narrowing:
     - from large data type to smaller data type
-    - eg:
-        - double data;
-        - int value = (int) data;
+  ```
+    double data;
+    int value = (int) data;
+  ```
 - Widening
     - from smaller data type to larger data type
-    - eg:
-        - int data;
-        - double value = data;
+  ```
+    int data;
+    double value = data;
+  ```
 
 #### Note:
 - For precise real number calculations, use BigDecimal
 - Underscore can be used between values assigned to the data types to mark the denominations
-    - eg: 2_47_475_641 => 247475641
+  ```
+  double value = 2_47_475_641; //247475641
+  ```
 - To get min & max of data types, use the wrapper class:
-    - Integer.MAX_VALUE / Integer.MIN_VALUE
+  ```
+    Integer.MAX_VALUE
+    Integer.MIN_VALUE
+  ```
     - The same is used for all primitive data types
 - Overflow & Underflow (wraparounds):
     - Values assigned to primitive data type above max value then returns to min value called as Overflow.
     - Values assigned to primitive data type below min value then returns to max value called as Underflow.
 - Double quotes are for string and single quotes are for characters
 - Initializing multiple variables:
-    - eg: int x,y;
-    - eg: int x=10,y=20;
+  ```
+    int x,y;
+    int x=10,y=20;
+  ```
 - We can use unicode for alphabets and symbols
-    - eg: char name = '\u0044' => D
-    - eg: char name = 'D' => D
-    - eg: char name = '68' => D
-    - "symbl.cc" to get the unicode for alphabets and symbols
-
+  ```
+    char name = '\u0044'     //D
+    char name = 'D'          //D
+    char name = '68'        //D
+  ```
+  - "symbl.cc" to get the unicode for alphabets and symbols
+  
 ## Non-Primitive:
-- They contain methods to manipulate data
+- They contain methods to manipulate data like length, add, remove, replace, find, indexOf, etc
 - String, Arrays, etc
+
+  ```
+   Non-Primitive type variables (Wrapper Classes):
+  
+    String userData = "Hello World!";
+    int[] numList = new int[5];
+    StringBuilder stringData = new StringBuilder(30);
+    ArrayList<Integer> valueList = new ArrayList<>();
+  ```
+  
