@@ -96,3 +96,8 @@ Try this:
 ### Method 2:
 - Right-click the code file and select Local History -> Show History option
 - Once opened the Local History, right-click the files versions on the left side and select revert option to make necessary changes
+
+## Debugging in IntelliJ:
+- Right-click the code file and select debug option.
+- Click near the line number of the code file enabling the breakpoints by red dots indicating.
+- Play, Pause, Step Over, Step Into, Step Out
