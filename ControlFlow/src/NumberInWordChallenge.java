@@ -44,4 +44,5 @@ public class NumberInWordChallenge {
         }
         System.out.println(result.toString().trim());
     }
+
 }
