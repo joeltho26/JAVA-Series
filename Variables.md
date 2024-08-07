@@ -19,10 +19,10 @@
    int[] numList = new int[5];
    ArrayList<Integer> valueList = new ArrayList<>();
   ```
-  
+-----
 ## Access & Non-Access Modifiers
-- Access Modifiers:
-  - private:
+- #### Access Modifiers:
+  - ##### private:
     - variables used within the same class
     - variables still can be accessed outside the class via encapsulation getter and setter methods
   ```
@@ -60,17 +60,17 @@
       }
     }
   ``` 
-  - protected:
+  - ##### protected:
     - variables used within the same package and subclasses
-  - public:
+  - ##### public:
     - variable is accessible in every classes inheriting it. 
-  - default (no access modifier mentioned):
+  - ##### default (no access modifier mentioned):
     - variable is only accessible in the same package
-
-- Non-Access Modifiers:
-  - final
+-----
+- #### Non-Access Modifiers:
+  - ##### final
     - variable values cannot be modified
-  - static
+  - ##### static
     - used on variables when a static method accesses it.
     - any changes on the static variable will cause change everywhere the static variable is accessed
   ```
@@ -95,3 +95,9 @@
      }
    }
   ```
+  - ##### transient:
+    - variables are skipped when serializing the object containing them
+    
+  - ##### volatile:
+    - variables are not cached thread-locally, and is always read from the "main memory"
+-----

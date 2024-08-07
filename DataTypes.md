@@ -1,15 +1,15 @@
 # Data Types:
 - Primitive
 - Non-Primitive
-
+----
 ## Primitive:
 - They do not contain methods to manipulate data
-- Whole numbers:
+- ##### Whole numbers:
     - int, byte, short, long (L = used end of the value)
-- Real Numbers:
+- ##### Real Numbers:
     - double (D = used end of the value or not necessary), float (F = used end of the value)
-  - Others:
-      - char (single quotes) & boolean
+- ##### Others:
+    - char (single quotes) & boolean
   ```
     Primitve type variables:
   
@@ -22,7 +22,7 @@
      boolean isAdult = true;
      char alphabet = 'A';
   ```
-
+----
 ### Primitive data types & its Memory:
 - byte => 1 byte (8 bits)
 - short => 2 bytes (16 bits)
@@ -32,7 +32,7 @@
 - double => 8 bytes (64 bits)
 - char => 2 bytes (16 bits)
 - boolean => 1 bit
-
+------
 ### Primitive data types & its WrapperClass:
 - byte <=> Byte
 - short <=> Short
@@ -42,21 +42,21 @@
 - double <=> Double
 - char <=> Character
 - boolean <=> Boolean
-
+----
 ### Casting:
-- Narrowing:
+- ##### Narrowing:
     - from large data type to smaller data type
   ```
     double data;
     int value = (int) data;
   ```
-- Widening
+- ##### Widening
     - from smaller data type to larger data type
   ```
     int data;
     double value = data;
   ```
-
+-------
 #### Note:
 - For precise real number calculations, use BigDecimal
 - Underscore can be used between values assigned to the data types to mark the denominations
@@ -69,7 +69,7 @@
     Integer.MIN_VALUE
   ```
     - The same is used for all primitive data types
-- Overflow & Underflow (wraparounds):
+- ##### Overflow & Underflow (wraparounds):
     - Values assigned to primitive data type above max value then returns to min value called as Overflow.
     - Values assigned to primitive data type below min value then returns to max value called as Underflow.
 - Double quotes are for string and single quotes are for characters
@@ -85,7 +85,7 @@
     char name = '68'        //D
   ```
   - "symbl.cc" to get the unicode for alphabets and symbols
-  
+------
 ## Non-Primitive:
 - They contain methods to manipulate data like length, add, remove, replace, find, indexOf, etc
 - String, Arrays, etc
@@ -98,4 +98,4 @@
     StringBuilder stringData = new StringBuilder(30);
     ArrayList<Integer> valueList = new ArrayList<>();
   ```
-  
+----
