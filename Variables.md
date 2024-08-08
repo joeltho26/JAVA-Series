@@ -97,7 +97,9 @@
   ```
   - ##### transient:
     - variables are skipped when serializing the object containing them
+    - During serialization, if we don't want to save value of a particular variable in a file, then we use transient keyword. When JVM comes across transient keyword, it ignores original value of the variable and save default value of that variable data type.
     
   - ##### volatile:
     - variables are not cached thread-locally, and is always read from the "main memory"
+    - it ensures that an variables value is always the same when read from all threads
 -----
