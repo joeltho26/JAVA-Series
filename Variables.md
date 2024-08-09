@@ -1,6 +1,7 @@
 # Variables:
 - follow camel-case while naming
 - variables can be created with primitive and non-primitive data types
+- variables which are primitive data types are never null
   ```
   Primitve type variables:
   
@@ -101,5 +102,5 @@
     
   - ##### volatile:
     - variables are not cached thread-locally, and is always read from the "main memory"
-    - it ensures that an variables value is always the same when read from all threads
+    - it ensures that a variables value is always the same when read from all threads
 -----

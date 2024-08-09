@@ -102,3 +102,6 @@ Try this:
 - Click near the line number of the code file enabling the breakpoints by red dots indicating.
 - Play, Pause, Step Over, Step Into, Step Out
 -----
+
+## Play with intelliJ for simplicity
+- Code -> Generate, Override Methods, Implement Methods and many more.

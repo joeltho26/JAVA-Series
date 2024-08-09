@@ -17,6 +17,12 @@
 ### Method overriding:
 - while using inheritance, same method in the child class is overrides the parents class method and its operations if necessary with the same name
 - Run-time polymorphism
+  ```
+  @Override
+  void move(String speed) {
+    super.move(speed);
+    }
+  ```
 -----
 ## Method Modifiers:
 - #### Access Modifiers:
