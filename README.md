@@ -105,3 +105,9 @@ Try this:
 
 ## Play with intelliJ for simplicity
 - Code -> Generate, Override Methods, Implement Methods and many more.
+
+## When the project is corrupted and unable to run the program.
+- Build -> ReBuild Project
+- File -> Invalidate Caches
+
+Then try again running the program
