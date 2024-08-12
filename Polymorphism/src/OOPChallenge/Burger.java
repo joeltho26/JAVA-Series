@@ -14,12 +14,10 @@ public class Burger extends Item {
         return super.getName() + " BURGER";
     }
 
-    @Override
-    public double getAdjustedPrice() {
-        return getBasePrice() +
-                ((extra1==null)?0:extra1.getAdjustedPrice()) +
-                ((extra2==null)?0:extra2.getAdjustedPrice()) +
-                ((extra3==null)?0:extra3.getAdjustedPrice());
+    public void addToppings(String extra1, String extra2, String extra3) {
+        this.extra1 = new Item(getExtraPrice(extra1),"Toppings",extra1);
+        this.extra2 = new Item(getExtraPrice(extra2),"Toppings",extra2);
+        this.extra3 = new Item(getExtraPrice(extra3),"Toppings",extra3);
     }
 
     public double getExtraPrice(String toppingsName) {
@@ -31,10 +29,12 @@ public class Burger extends Item {
 
     }
 
-    public void addToppings(String extra1, String extra2, String extra3) {
-        this.extra1 = new Item(getExtraPrice(extra1),"Toppings",extra1);
-        this.extra2 = new Item(getExtraPrice(extra2),"Toppings",extra2);
-        this.extra3 = new Item(getExtraPrice(extra3),"Toppings",extra3);
+    @Override
+    public double getAdjustedPrice() {
+        return getBasePrice() +
+                ((extra1==null)?0:extra1.getAdjustedPrice()) +
+                ((extra2==null)?0:extra2.getAdjustedPrice()) +
+                ((extra3==null)?0:extra3.getAdjustedPrice());
     }
 
     public void printItemlizedList() {
@@ -56,4 +56,5 @@ public class Burger extends Item {
         System.out.println("-".repeat(30));
         super.printItem();
     }
+
 }
