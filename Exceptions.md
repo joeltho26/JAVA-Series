@@ -1,4 +1,7 @@
 # User Exception:
+
+eg: https://rollbar.com/guides/java/how-to-throw-exceptions-in-java/
+
 - User-defined Exception
 - Built-in Exception
 
