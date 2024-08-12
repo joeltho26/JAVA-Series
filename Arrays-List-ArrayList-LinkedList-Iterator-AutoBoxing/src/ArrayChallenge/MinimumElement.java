@@ -1,11 +1,11 @@
 package ArrayChallenge;
-import org.jetbrains.annotations.Contract;
+
 import org.jetbrains.annotations.NotNull;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class ArraySortTwo {
+public class MinimumElement {
     public static void main(String[] args) throws InputMismatchException {
         while(true) {
             Scanner input = new Scanner(System.in);
@@ -23,11 +23,9 @@ public class ArraySortTwo {
                 continue;
             }
             int[] array = getIntegers(arraySize);
-            sortIntegers(array);
-            printIntegers(array);
+            System.out.println("The minimum value in the array is " + findMin(array));
             System.out.println("\n");
-            System.out.print("-".repeat(25));
-            System.out.println("\n");
+            System.out.println("-".repeat(25));
         }
     }
 
@@ -57,40 +55,13 @@ public class ArraySortTwo {
         }
     }
 
-    @Contract("_ -> param1")
-    public static int @NotNull [] sortIntegers(int @NotNull [] array) {
-        boolean isSorted = true;
-        if (array.length <= 1) {
-            System.out.println("Insufficient values to perform sort");
-        } else {
-            while (isSorted) {
-                isSorted = false;
-                for (int i = 0; i < array.length - 1; i++) {
-                    if (array[i] < array[i + 1]) {
-                        int tmp = array[i];
-                        array[i] = array[i + 1];
-                        array[i + 1] = tmp;
-                        isSorted = true;
-                    }
-                }
-
-                if (!isSorted) {
-                    break;
-                }
-
+    public static int findMin(int @NotNull [] array) {
+        int minValue = Integer.MAX_VALUE;
+        for (int i: array) {
+            if (i<minValue) {
+                minValue = i;
             }
         }
-        return array;
-    }
-
-    public static void printIntegers(int @NotNull [] array) {
-        if (array.length <=1) {
-            System.out.printf("The only number is " + array[0] + "%n");
-        } else {
-            System.out.print("The numbers sorted in descending order are ");
-            for (int i : array) {
-                System.out.printf("%d ",i);
-            }
-        }
+        return minValue;
     }
 }
