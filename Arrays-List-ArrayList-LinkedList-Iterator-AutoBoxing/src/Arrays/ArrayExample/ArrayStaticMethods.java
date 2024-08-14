@@ -1,4 +1,6 @@
-package ArrayExample;
+package Arrays.ArrayExample;
+
+import org.jetbrains.annotations.NotNull;
 
 import java.util.Arrays;
 import java.util.Random;
@@ -36,11 +38,30 @@ public class ArrayStaticMethods {
             System.out.println("Arrays are not equal");
         }
 
+        String[] cars = {"Volvo", "BMW", "Tesla"};
+        String[] cars2 = {"Volvo", "BMW", "Tesla"};
+        System.out.println(Arrays.compare(cars,cars2));
 
+        String[] cars3 = {"Volvo", "BMW", "Tesla"};
+        String[] cars4 = Arrays.copyOf(cars,3);
+        System.out.println(Arrays.compare(cars3,cars4));
+
+        Object[][] cars5 = {
+                {"Volvo", "BMW", "Tesla"},
+                {1,2,3}
+        };
+        var cars6 = Arrays.copyOf(cars5,2);
+        System.out.println(Arrays.deepEquals(cars5,cars6));
+
+        String[] cars7 = {"Volvo", "Audi", "Tesla"};
+        String[] cars8 = {"Volvo", "BMW", "Tesla"};
+        System.out.println(Arrays.mismatch(cars7,cars8));
+        var values = Arrays.asList(cars7);
+        System.out.println(Arrays.asList(cars7));
 
     }
 
-    private static int[] getRandomArray (int len) {
+    private static int @NotNull [] getRandomArray (int len) {
         Random random = new Random();
         int[] intArray = new int[len];
 

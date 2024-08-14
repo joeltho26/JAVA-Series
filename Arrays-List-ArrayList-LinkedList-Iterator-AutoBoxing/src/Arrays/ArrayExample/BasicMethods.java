@@ -1,4 +1,4 @@
-package ArrayExample;
+package Arrays.ArrayExample;
 
 import java.util.Arrays;
 import java.util.List;
@@ -57,5 +57,7 @@ public class BasicMethods {
         if (variable instanceof int[]) {
             System.out.println("It's an int array!");
         }
+
+
     }
 }
