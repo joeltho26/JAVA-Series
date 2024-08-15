@@ -1,6 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8487779-4c65-4546-87e8-2b875c524f5a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstraction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge/ChallengeOne/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge/ChallengeOne/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge/ChallengeOne/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge/ChallengeOne/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge/ChallengeOne/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge/ChallengeOne/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge/ChallengeTwo/ArtObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge/ChallengeTwo/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge/ChallengeTwo/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge/ChallengeTwo/ProductForSale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge/ChallengeTwo/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstraction.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstraction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2keUuEDl080rAmMhww1msrHmWCM" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Store.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/joeljoseph26/Documents/Education/Back-End/Java/JAVA-Series/Abstraction/src/Main.java",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8487779-4c65-4546-87e8-2b875c524f5a" name="Changes" comment="" />
+      <created>1723643758770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723643758770</updated>
+    </task>
+    <servers />
   </component>
 </project>
