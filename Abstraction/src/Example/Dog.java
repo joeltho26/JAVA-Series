@@ -1,4 +1,4 @@
-package Challenge.ChallengeOne;
+package Example;
 
 public class Dog extends Mammal{
 

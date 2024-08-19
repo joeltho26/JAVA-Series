@@ -1,4 +1,4 @@
-package Challenge.ChallengeOne;
+package Example;
 
 import org.jetbrains.annotations.NotNull;
 

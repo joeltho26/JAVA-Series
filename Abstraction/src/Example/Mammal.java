@@ -1,4 +1,4 @@
-package Challenge.ChallengeOne;
+package Example;
 
 abstract class Mammal extends Animal{
 

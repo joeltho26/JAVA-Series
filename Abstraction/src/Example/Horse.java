@@ -1,4 +1,4 @@
-package Challenge.ChallengeOne;
+package Example;
 
 public class Horse extends Mammal{
     public Horse(String type, String size, double weight) {

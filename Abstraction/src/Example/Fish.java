@@ -1,4 +1,4 @@
-package Challenge.ChallengeOne;
+package Example;
 
 public class Fish extends Animal{
 

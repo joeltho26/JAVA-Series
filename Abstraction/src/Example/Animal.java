@@ -1,4 +1,4 @@
-package Challenge.ChallengeOne;
+package Example;
 
 public abstract class Animal {
     protected String type;
