@@ -1,6 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="648c5b98-6fbd-4169-ada5-a7f97b85d3b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generics-NestedClasses-Types.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Challenge/ChallengeOne/Layer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Challenge/ChallengeOne/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Challenge/ChallengeOne/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Challenge/ChallengeOne/Mappable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Challenge/ChallengeOne/Park.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Challenge/ChallengeOne/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Challenge/ChallengeOne/River.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Challenge/ChallengeTwo/LPAStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Challenge/ChallengeTwo/LPAStudentComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Challenge/ChallengeTwo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Challenge/ChallengeTwo/QueryItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Challenge/ChallengeTwo/QueryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Challenge/ChallengeTwo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Example/ExampleOne/Affiliation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Example/ExampleOne/BaseBallTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Example/ExampleOne/BaseballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Example/ExampleOne/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Example/ExampleOne/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Example/ExampleOne/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Example/ExampleOne/SportsTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Example/ExampleOne/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Example/ExampleOne/VolleyballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Example/ExampleThree/LPAStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Example/ExampleThree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Example/ExampleThree/QueryItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Example/ExampleThree/QueryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Example/ExampleThree/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Example/ExampleTwo/ComparatorAndComparable/Comparable/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Example/ExampleTwo/ComparatorAndComparable/Comparator/StudentGPAComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Example/ExampleTwo/ComparatorAndComparable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstraction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstraction/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Interface.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2kun2r4XSVENfDCXoNjThwIneDw" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Student.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/joeljoseph26/Documents/Education/Back-End/Java/JAVA-Series/Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeTwo",
+    "onboarding.tips.debug.path": "/Users/joeljoseph26/Documents/Education/Back-End/Java/JAVA-Series/Generics-NestedClasses-Types/src/Main.java",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Generics/Challenge/ChallengeTwo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Generics.Example.ExampleThree" />
+      <recent name="Generics.Example" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="648c5b98-6fbd-4169-ada5-a7f97b85d3b5" name="Changes" comment="" />
+      <created>1724142126716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724142126716</updated>
+    </task>
+    <servers />
   </component>
 </project>

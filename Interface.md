@@ -8,6 +8,7 @@
 - static & final for variables or methods within the interface is redundant
 - interface cannot "implements" another interface but can "extends" and extended interface methods are not mandatory to implement
 - JDK 9 introduced, public static methods in interface
+- final & static variables can be included in interface 
 
   ```
     public interface OrbitEarth extends FlightEnabled{
