@@ -74,6 +74,9 @@
   - ##### static
     - used on variables when a static method accesses it.
     - any changes on the static variable will cause change everywhere the static variable is accessed
+    - static variable shares among all the inherited classes is the same
+    - when static variables are modified then all the inheriting classes are also affected.
+    - usually used in counters, unique IDs, constants, etc. 
   ```
     public class Sample {
       static int num = 10;

@@ -1,5 +1,7 @@
 package NestedClasses.Example.ExampleOne;
 
+import org.jetbrains.annotations.NotNull;
+
 import java.util.Comparator;
 
 public class Employee {

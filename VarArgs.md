@@ -1,12 +1,14 @@
 # Variable Argument
-- only one variable argument allowed in a method parameter
 - it should be the last parameter in the method
 - the below example will allow both array of string or just a string value.
+- they also used with generics
   ```
-    public static void print(String... value) {
-    ....
-    .......
-    ...........
+    public static void printValue(String... value) {
+      System.out.println("The value is " + value)
+    }
+  
+   public static void printDetails(T... details) {
+      System.out.println("The details are " + details.info())
     }
   
     String.join("," , myArray); myArray => is using VarArgs

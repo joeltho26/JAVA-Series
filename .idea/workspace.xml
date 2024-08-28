@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9b53485-bf81-4ad5-a929-8008fba3f12e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Generics-NestedClasses-Types/src/NestedClasses/Challenge/ChallengeThree/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generics-NestedClasses-Types/src/NestedClasses/Challenge/ChallengeThree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generics-NestedClasses-Types/src/NestedClasses/Example/ExampleOne/RunMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstraction.md" beforeDir="false" afterPath="$PROJECT_DIR$/Abstraction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/Arrays/ArrayExample/ArrayStaticMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/Arrays/ArrayExample/ArrayStaticMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class.md" beforeDir="false" afterPath="$PROJECT_DIR$/Class.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics-NestedClasses-Types/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generics-NestedClasses-Types/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics-NestedClasses-Types/src/NestedClasses/Example/ExampleOne/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics-NestedClasses-Types/src/NestedClasses/Example/ExampleOne/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics-NestedClasses-Types/src/NestedClasses/Example/ExampleOne/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics-NestedClasses-Types/src/NestedClasses/Example/ExampleOne/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics.md" beforeDir="false" afterPath="$PROJECT_DIR$/Generics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashMapMethods.md" beforeDir="false" afterPath="$PROJECT_DIR$/AnonymousClass.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashSetMethods.md" beforeDir="false" afterPath="$PROJECT_DIR$/LocalClasses.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance.md" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InnerClasses.md" beforeDir="false" afterPath="$PROJECT_DIR$/InnerClasses.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface.md" beforeDir="false" afterPath="$PROJECT_DIR$/Interface.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedListMethods.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMethods.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods.md" beforeDir="false" afterPath="$PROJECT_DIR$/Methods.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutputMethods.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VarArgs.md" beforeDir="false" afterPath="$PROJECT_DIR$/VarArgs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables.md" beforeDir="false" afterPath="$PROJECT_DIR$/Variables.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2kFddn5ndqTxIMAGYq6XYR3nkZz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Album.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/joeljoseph26/Documents/Education/Back-End/Java/JAVA-Series&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Abstraction/src/Abstraction" />
+      <recent name="$PROJECT_DIR$/Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/Arrays" />
+      <recent name="$PROJECT_DIR$/Polymorphism/src" />
+      <recent name="$PROJECT_DIR$/Inheritance/src" />
+      <recent name="$PROJECT_DIR$/Inheritance" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9b53485-bf81-4ad5-a929-8008fba3f12e" name="Changes" comment="" />
+      <created>1722883351496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722883351496</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

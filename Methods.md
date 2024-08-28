@@ -27,7 +27,8 @@
 ## Method Modifiers:
 - #### Access Modifiers:
   - ##### public:
-    - methods with public keywords are accessed by externally
+    - methods with public keywords are accessed by externally (by instance of class)
+    - methods with public keywords are accessed by another public or public static methods but not pure static methods.
     - need to create instance of a class to access the method
   ```
   public boolean isPrimeNumber(int number) {
@@ -78,6 +79,8 @@
 - #### Non-Access Modifiers:
   - ##### Static Methods:
     - they are called directly and not via instances
+    - static methods can be accessed inside another static method or public method.
+    - public method cannot be accessed inside a static method
   ```
       class First {
          static void printDetails () {
@@ -125,7 +128,7 @@
     
   - ##### abstract:
     - can only be used in an abstract class
-    - abstract methods have no body and the body is defined in subclass via inheritance
+    - abstract methods have no-body and the body is defined in subclass via inheritance
   
   - ##### transient:
     - methods are skipped when serializing the object containing them

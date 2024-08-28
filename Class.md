@@ -1,6 +1,9 @@
 # Class:
 - like a special data type which includes methods like non-primitive data types
 - we can create static and non-static classes (creating instance of a class)
+- when a class field is static (variables) then it has only one memory address, and it's associated with the class
+- when a class field is non-static (variables) then everytime when we create instance of class it creates a new memory address for the field variables of the class.
+- static fields can be used in both static and non-static methods in a class both internal(same class) and external(inherited class or outside class)
 ----
 ## Class Modifiers:
 - #### Access Modifiers:

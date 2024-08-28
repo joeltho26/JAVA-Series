@@ -16,6 +16,13 @@
     ......... 
     }
   ```
+- imagine "class LpaStudents extends Students" then,
+  - List<'Students'> students = new ArrayList<>(new Students()) => works
+  - List<'LpaStudents'> students2 = new ArrayList<>(new LpaStudents()) => works
+  - List<'Students'> students3 = new ArrayList<>(new LpaStudents()) => works
+  - List<'LpaStudents'> students4 = new ArrayList<>(new Students()) => not work
+- The above rule will apply the same for method parameters as well.
+  - We can also use raw use of class like 'void printValues (List values) {}
 ##### Note:
 - we can also use "super()" keyword to access parent class constructor
 - We can generalize methods with the inheritance of parent class parameters like 
