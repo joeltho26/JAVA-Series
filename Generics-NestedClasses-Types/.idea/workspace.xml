@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="648c5b98-6fbd-4169-ada5-a7f97b85d3b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NestedClasses/Challenge/ChallengeThree/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NestedClasses/Challenge/ChallengeThree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NestedClasses/Example/ExampleOne/RunMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Abstraction.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstraction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/Arrays/ArrayExample/ArrayStaticMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/Arrays/ArrayExample/ArrayStaticMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Class.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedClasses/Example/ExampleOne/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NestedClasses/Example/ExampleOne/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedClasses/Example/ExampleOne/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NestedClasses/Example/ExampleOne/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Generics.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HashMapMethods.md" beforeDir="false" afterPath="$PROJECT_DIR$/../AnonymousClass.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HashSetMethods.md" beforeDir="false" afterPath="$PROJECT_DIR$/../LocalClasses.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../InnerClasses.md" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClasses.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interface.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Interface.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListMethods.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MathMethods.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Methods.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Methods.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OutputMethods.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VarArgs.md" beforeDir="false" afterPath="$PROJECT_DIR$/../VarArgs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Variables.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LocalClasses.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

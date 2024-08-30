@@ -1,0 +1,45 @@
+# Method Reference:
+- used alongside with lambda expressions
+- :: denoted as method reference
+- eg: {"Ann","Mark","Luke"}.forEach(System.out::println);
+- Usually type references refers className, enumName, methodName, recordName, etc
+  - static method are usually called using type reference, but it can be called by instances in our code.
+  - But this is not true for method reference
+  - there are 2 ways:
+    - https://stackoverflow.com/questions/35914775/difference-between-method-reference-bound-receiver-and-unbound-receiver  
+    - first way:
+      - i.e, static methods in method references and lambda expression must be invoked using a reference type only.
+      - however, to call the instance method first we refer to the instance of the method derived from an enclosing code.
+      - this instance is declared outside of method reference
+      - this is also called as Bounded Receiver
+    - second way:
+      - instance used to invoke the method will be the first argument passed to the lambda expression or method reference.
+      - this is known as Unbounded Receiver
+- 4 types of Method References:
+  - Integer::sum => static
+  - System.out::println => instance method (bounded)
+  - String::concat => instance method (unbounded)
+  - Student::new => constructor
+-----------
+- One Argument:
+  - Supplier: (No Args)
+    - Constructor reference type => Employee::new
+  - Predicate: (one arg)
+    - Unbounded Receiver => String::isEmpty
+  - Consumer: (one arg)
+    - Bounded Receiver => System.out::println
+    - Unbounded Receiver => List::clear
+  - Function: (one arg)
+    - Constructor reference type => Employee::new
+    - Unbounded Receiver => String::length
+- Two Arguments:
+  - BiPredicate: (one arg)
+    - Unbounded Receiver => String::equals
+  - BiConsumer: (one arg)
+    - Bounded Receiver => System.out::printf
+    - Unbounded Receiver => List::add
+  - Function: (one arg)
+    - static reference type => Integer::sum
+    - Constructor reference type => Employee::new
+    - Unbounded Receiver => String::split / String::concat
+    - Bounded Receiver => new Random()::nextInt
