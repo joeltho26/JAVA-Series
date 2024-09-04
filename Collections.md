@@ -1,0 +1,47 @@
+# Collection framework:
+- Interface
+  - Set
+  - List
+  - Deque
+  - Map
+- Hash Table
+  - HashSet
+  - HashMap
+- Resizeable Array
+  - ArrayList
+  - ArrayDeque
+- Balanced Tree:
+  - TreeSet
+  - TreeMap
+- Linked List
+  - LinkedList(List)
+  - LinkedList(Deque)
+- HashTable + LinkedList
+  - LinkedHashSet
+  - LinkedHashMap
+--------
+- java.util.SortedMap
+- java.util.NavigableMap
+- java.util.concurrent.ConcurrentMap
+- java.util.concurrent.ConcurrentNavigableMap
+- java.util.Set
+- java.util.SortedSet
+- java.util.NavigableSet
+- java.util.Queue
+- java.util.concurrent.BlockingQueue
+- java.util.concurrent.TransferQueue
+- java.util.Deque
+- java.util.concurrent.BlockingDeque
+-------
+## Collection (Baseclass) Interface:
+- Methods:
+  - add(E e)
+  - addAll(Collection)
+  - clear()
+  - contains(Object o)
+  - containsAll(Collection)
+  - iterator()
+  - remove(E e)
+  - removeAll(Collection)
+  - removeIf(Predicate)
+  - retainAll(Collection)

@@ -1,0 +1,4 @@
+package NestedClasses.Challenge.Employee;
+
+public record Employee(String firstName, String lastName, String hireDate) {
+}

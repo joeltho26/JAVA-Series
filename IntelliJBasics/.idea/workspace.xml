@@ -4,7 +4,148 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8116248-5df5-4fb8-9eac-b4c6ce20d7b5" name="Changes" comment="" />
+    <list default="true" id="e8116248-5df5-4fb8-9eac-b4c6ce20d7b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayDeque.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/LinkedList/Challenge/Playlist/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/Challenge/ChallengeOne/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/Challenge/ChallengeOne/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/Example/ExampleOne/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrent.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMap.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashSet.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashTable.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TreeSet.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vectors.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstraction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstraction/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstraction/src/Challenge/ChallengeOne/ListItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstraction/src/Challenge/LinkedListTree/ListItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstraction/src/Challenge/ChallengeOne/MyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstraction/src/Challenge/ChallengeOne/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstraction/src/Challenge/ChallengeOne/NodeList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstraction/src/Challenge/ChallengeOne/SearchTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstraction/src/Challenge/ChallengeTwo/ArtObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstraction/src/Challenge/ChallengeTwo/Furniture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstraction/src/Challenge/ChallengeTwo/OrderItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstraction/src/Challenge/ChallengeTwo/ProductForSale.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstraction/src/Challenge/ChallengeTwo/Store.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/ArrayList/ArrayListChallenge/Example/ArrayListChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/ArrayList/ArrayListExample/ItemList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/ArrayList/ArrayListExample/Example/ArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/ArrayList/ArrayListExample/Grocery/ArrayListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/ArrayList/ArrayListExample/Example/GroceryItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/ArrayList/ArrayListExample/Grocery/GroceryItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/Arrays/ArrayExample/ArrayStaticMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/Arrays/ArrayExample/ArrayStaticMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/AutoBoxing/Challenge/ChallengeOne/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/AutoBoxing/Challenge/BankCustomer/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/AutoBoxing/Challenge/ChallengeOne/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/AutoBoxing/Challenge/BankCustomer/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/AutoBoxing/Challenge/ChallengeOne/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/AutoBoxing/Challenge/BankCustomer/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/AutoBoxing/Challenge/ChallengeTwo/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/AutoBoxing/Challenge/BankCustomer2/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/AutoBoxing/Challenge/ChallengeTwo/Branch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/AutoBoxing/Challenge/BankCustomer2/Branch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/AutoBoxing/Challenge/ChallengeTwo/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/AutoBoxing/Challenge/BankCustomer2/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeOne/Layer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeOne/Line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeOne/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeOne/Mappable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeOne/Park.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeOne/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeOne/River.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeTwo/LPAStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeTwo/LPAStudentComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeTwo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeTwo/QueryItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeTwo/QueryList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeTwo/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/ExampleOne/Affiliation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/PlayerTeams/Affiliation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/ExampleOne/BaseBallTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/PlayerTeams/BaseBallTeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/ExampleOne/BaseballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/PlayerTeams/BaseballPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/ExampleOne/FootballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/PlayerTeams/FootballPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/ExampleOne/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/PlayerTeams/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/ExampleOne/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/PlayerTeams/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/ExampleOne/SportsTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/PlayerTeams/SportsTeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/ExampleOne/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/PlayerTeams/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/ExampleOne/VolleyballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/PlayerTeams/VolleyballPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/ExampleThree/LPAStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/Student/LPAStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/ExampleThree/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/Student/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/ExampleThree/QueryItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/Student/QueryItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/ExampleThree/QueryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/Student/QueryList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/ExampleThree/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/Student/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/ExampleTwo/ComparatorAndComparable/Comparable/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/ComparatorComparable/ComparatorAndComparable/Comparable/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/ExampleTwo/ComparatorAndComparable/Comparator/StudentGPAComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/ComparatorComparable/ComparatorAndComparable/Comparator/StudentGPAComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/ExampleTwo/ComparatorAndComparable/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/Generics/Example/ComparatorComparable/ComparatorAndComparable/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Challenge/ChallengeOne/Meal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Challenge/Meal/Meal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Challenge/ChallengeOne/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Challenge/Meal/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Challenge/ChallengeThree/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Challenge/Employee/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Challenge/ChallengeThree/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Challenge/Employee/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Challenge/ChallengeTwo/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Challenge/AlbumSong/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Challenge/ChallengeTwo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Challenge/AlbumSong/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Challenge/ChallengeTwo/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Challenge/AlbumSong/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Example/ExampleOne/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Example/EmployeeStore/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Example/ExampleOne/EmployeeComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Example/EmployeeStore/EmployeeComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Example/ExampleOne/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Example/EmployeeStore/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Example/ExampleOne/RunMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Example/EmployeeStore/RunMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Example/ExampleOne/StoreEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics-NestedClasses-Types/src/NestedClasses/Example/EmployeeStore/StoreEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/CarpetCostCalculatorChallenge/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/CarpetCostCalculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/CarpetCostCalculatorChallenge/Carpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/CarpetCostCalculator/Carpet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/CarpetCostCalculatorChallenge/Floor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/CarpetCostCalculator/Floor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/ComplexNumberChallenge/ComplexNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/ComplexNumber/ComplexNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/ConstructorChallenge/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/Constructor/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/ConstructorChallenge/CustomerCalling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/Constructor/CustomerCalling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/ConstuctorExample/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Example/Constuctor/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/ConstuctorExample/BankAccountCalling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Example/Constuctor/BankAccountCalling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/CylinderChallenge/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/Cylinder/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/CylinderChallenge/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/Cylinder/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/CylinderChallenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/Cylinder/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/FormattingStringExamples/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Example/FormattingStringMethods/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/FormattingStringExamples/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Example/FormattingStringMethods/StringMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/GetterSetterExample/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Example/GetterSetter/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/GetterSetterExample/CarCalling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Example/GetterSetter/CarCalling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/InheritanceChallenge/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/Inheritance/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/InheritanceChallenge/HourlyEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/Inheritance/HourlyEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/InheritanceChallenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/Inheritance/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/InheritanceChallenge/SalariedEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/Inheritance/SalariedEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/InheritanceChallenge/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/Inheritance/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/InheritanceExample/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Example/Inheritance/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/InheritanceExample/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Example/Inheritance/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/InheritanceExample/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Example/Inheritance/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/InheritanceExample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Example/Inheritance/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/JavaLangObjectExample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Example/JavaLangObject/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/ObjectOrientedChallenge/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/ObjectOriented/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/ObjectOrientedChallenge/BankAccountCalling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/ObjectOriented/BankAccountCalling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/POJO/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Example/POJO/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/POJO/StudentCalling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Example/POJO/StudentCalling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/POJO/StudentInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Example/POJO/StudentInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/POJO/StudentInfoCalling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Example/POJO/StudentInfoCalling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/PersonChallenge/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/Person/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/PersonChallenge/PersonCalling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/Person/PersonCalling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/PointChallenge/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/Point/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/PointChallenge/PointCalling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/Point/PointCalling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/PoolAreaChallenge/Cuboid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/PoolArea/Cuboid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/PoolAreaChallenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/PoolArea/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/PoolAreaChallenge/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/PoolArea/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/SimpleCalculatorChallenge/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/SimpleCalculator/SimpleCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/SimpleCalculatorChallenge/SimpleCalculatorCalling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/SimpleCalculator/SimpleCalculatorCalling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/StringBuilderExample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Example/StringBuilder/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/WallAreaChallenge/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/WallArea/Wall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/WallAreaChallenge/WallCalling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Challenge/WallArea/WallCalling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TernaryOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCollections/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCollections/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCollections/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LambdaExpressions-FunctionalInterfaces-MethodReferences/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LambdaExpressions-FunctionalInterfaces-MethodReferences/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/Challenge/Playlist/Song.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +161,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
@@ -34,10 +178,12 @@
     "Application.SimpleClass.executor": "Run",
     "Application.TernaryOperator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/joeljoseph26/Documents/Education/Back-End/Java/JAVA-Series/IntelliJBasics",
-    "onboarding.tips.debug.path": "/Users/joeljoseph26/Documents/Education/Back-End/Java/JAVA-Series/IntelliJBasics/src/Main.java"
+    "onboarding.tips.debug.path": "/Users/joeljoseph26/Documents/Education/Back-End/Java/JAVA-Series/IntelliJBasics/src/Main.java",
+    "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

@@ -22,8 +22,6 @@ public class ArrayStaticMethods {
             System.out.println("Element not Found");
         }
 
-        Arrays.
-
         int[] secondArray = Arrays.copyOf(firstArray,5); //5 => new length of the array
         System.out.println(Arrays.toString(secondArray));
 
