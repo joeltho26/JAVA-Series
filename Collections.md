@@ -45,3 +45,14 @@
   - removeAll(Collection)
   - removeIf(Predicate)
   - retainAll(Collection)
+
+- View in collection (TreeSet/HashMap/HashSet/LinkedHashSet/LinkedHashMap/TreeMap):
+  - Eg: headSet, tailSet, subSet on Sets
+  - It doesn't store the elements, but it relies on data from the backed-up collection
+- HashMap:
+  - HashMap<K,V> implements both Map<K,V> & HashMap.Node<K,V> (HashMap.Node<K,V> calls the Map.Entry<K,V> interface)
+  - HashMap -> table: Node[]
+  - it is not ordered
+  - no duplicated allowed
+  - changes made to the views will also affect the main Map
+  - add operation is not supported in views

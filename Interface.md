@@ -17,7 +17,7 @@
       }
     }
   ```
-- final & static variables can be included in interface 
+- final & static variables can be included in interface and redundant
   ```
     public interface FlightEnabled {
       static final double milesToKilometers = 1.60934;
@@ -44,7 +44,7 @@
       }
     }
   ```
-- JDK 9, gave private static and non-static methods
+- JDK 9, gave private static and private non-static methods
   - private static method, accessed by public static method, default method, private non-static method
   ```
    public interface Rough {
@@ -73,10 +73,21 @@
   ``` 
   <Interface>.super.<method>();
   
-  @Override
+
+  public interface FlightEnabled {
     default FlightStages transition(@NotNull FlightStages stage) {
-        FlightStages nextStage = FlightEnabled.super.transition(stage);
-        logStage(nextStage, "Beginning Transition to " + nextStage);
+        FlightStages nextStage = stage.getNextStage();
+        System.out.println("Transitioning from " + stage + " to " + nextStage);
         return nextStage;
     }
+  }
+
+  interface OrbitEarth extends FlightEnabled {
+      @Override
+      default FlightStages transition(@NotNull FlightStages stage) {
+          FlightStages nextStage = FlightEnabled.super.transition(stage);
+          logStage(nextStage, "Beginning Transition to " + nextStage);
+          return nextStage;
+      }
+  }
   ```

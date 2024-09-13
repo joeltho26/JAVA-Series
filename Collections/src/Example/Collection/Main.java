@@ -1,4 +1,4 @@
-package Example.ExampleOne;
+package Example.Collection;
 
 import java.util.*;
 
@@ -13,15 +13,15 @@ public class Main {
         list.addLast("Laura");
         System.out.println(list);
 
-//        list.add("Luna");
-//        System.out.println(list);
-//
-//        list.addAll(Arrays.asList("George","Mary","John"));
-//        System.out.println(list);
-//        System.out.println(list.contains("Mary"));
-//
-//        System.out.println(list.removeIf(s -> s.contains("Mary")));
-//        System.out.println(list);
+        list.add("Luna");
+        System.out.println(list);
+
+        list.addAll(Arrays.asList("George","Mary","John"));
+        System.out.println(list);
+        System.out.println(list.contains("Mary"));
+
+        System.out.println(list.removeIf(s -> s.contains("Mary")));
+        System.out.println(list);
 
         //LinkedList
         LinkedList<String> linkedlist = new LinkedList<>();
@@ -29,10 +29,10 @@ public class Main {
         linkedlist.addFirst("Kenny");
         linkedlist.addLast("Laura");
         System.out.println(linkedlist);
-//        System.out.println(linkedlist.pop());
-//        System.out.println(linkedlist.peekLast());
-//        System.out.println(linkedlist.element());
-//        System.out.println(linkedlist.pollLast());
+        System.out.println(linkedlist.pop());
+        System.out.println(linkedlist.peekLast());
+        System.out.println(linkedlist.element());
+        System.out.println(linkedlist.pollLast());
 
         //TreeSet
         Collection<String> treeset = new TreeSet<>();
@@ -47,15 +47,15 @@ public class Main {
         System.out.println(hashset);
 
         //ArrayDeque
-        Deque<String> arraydeque = new ArrayDeque<>();
+        var arraydeque = new ArrayDeque<>();
         arraydeque.addAll(Arrays.asList(names));
         arraydeque.addFirst("Kenny");
         arraydeque.addLast("Laura");
         System.out.println(arraydeque);
-//        System.out.println(arraydeque.pop());
-//        System.out.println(arraydeque.peek());
-//        System.out.println(arraydeque.element());
-//        System.out.println(arraydeque.poll());
+        System.out.println(arraydeque.pop());
+        System.out.println(arraydeque.peek());
+        System.out.println(arraydeque.element());
+        System.out.println(arraydeque.poll());
 
         //LinkedHashSet
 //        HashSet<String> linkedHashSet = new LinkedHashSet<>();

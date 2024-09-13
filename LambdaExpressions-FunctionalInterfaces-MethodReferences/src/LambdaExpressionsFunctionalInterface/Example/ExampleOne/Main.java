@@ -46,9 +46,9 @@ public class Main {
         System.out.println(people);
 
         // using lambda expressions (comparing)
-        Comparator<Person> comparatorLastNameLambdaComparing = Comparator.comparing(o -> o.firstName);
+        Comparator<Person> comparatorFirstNameLambdaComparing = Comparator.comparing(o -> o.firstName);
 
-        people.sort(comparatorLastNameLambdaComparing);
+        people.sort(comparatorFirstNameLambdaComparing);
         System.out.println(people);
 
         // functional interface must strictly have only one abstract method

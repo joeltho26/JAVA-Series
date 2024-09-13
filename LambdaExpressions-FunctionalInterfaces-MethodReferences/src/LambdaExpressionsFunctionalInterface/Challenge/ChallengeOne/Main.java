@@ -39,7 +39,6 @@ public class Main {
         };
         printWordConcise.accept("Let's split this up into an arrays");
 
-
         Function<String,String> printString = sentence -> {
             StringBuilder returnVal = new StringBuilder();
             for(int i=0; i<sentence.length(); i++) {
@@ -63,16 +62,18 @@ public class Main {
         System.out.println(value1);
 
         Function<String, List<String>> printStringFunc1 = sentence -> {
-            return Arrays.asList(sentence.replace("", " "));
+            return List.of(sentence.replace("", " "));
         };
 
         List<String> value2 = printStringFunc1.apply("Watermelon");
-        System.out.println(String.valueOf(value2));
+        System.out.println(value2);
 
         System.out.println(everySecondCharacter(printString,"Watermelon"));
 
         Supplier<String> iLoveJava = () -> "I Love Java";
         System.out.println(iLoveJava.get());
+
+        System.out.println(everySecondChar("I Love Java"));
     }
 
     public static @NotNull String everySecondChar(@NotNull String source) {

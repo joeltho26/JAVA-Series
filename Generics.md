@@ -99,15 +99,25 @@
   ```
 - with T & S
   ```
-   public interface Player {
+  public interface Player {
     String name();
-    }
+  }
   
   public record FootballPlayer(String name, String position) implements Player {
-    }
+    
+  }
   
   public record BaseballPlayer(String name, String position) implements Player {
+    
+  }
+
+
+  public record Affiliation(String name, String type, String countryCode) {
+    @override
+    public String toString() {
+      return name() + " (" + type() + " in " + countryCode() + ")";
     }
+  }
   
   public class Team<T extends Player, S> {
     private String teamName;
@@ -119,6 +129,11 @@
 
     public Team(String teamName) {
         this.teamName = teamName;
+    }
+
+    public Team(String teamName, S affiliation) {
+        this.teamName = teamName;
+        this.affiliation = affiliation;
     }
 
     public void addTeamMembers(T t) {
@@ -137,10 +152,10 @@
   }
   
   //Allowed implementation:
-   Team<FootballPlayer> afc = new Team<>("Adelaide Crows");
+   Team<FootballPlayer> afc = new Team<>("Adelaide Crows","Adelaide");
    var tex = new FootballPlayer("Tex Walker", "Centre Half Forward");
   ```
-- Sometimes, we can T[] instead of List<'T'>.
+- Sometimes, we can T[] instead of List<'T'> but [] is an array whereas List<'T'> is a type from Collection framework
 - Comparable (uses compareTo() method)
 - RAW use of Comparable (not recommended):
   ```
@@ -159,7 +174,7 @@
     @Override
     public int compareTo(Object o) {
       Student other = (Student) o;
-      return name.compareTo(o.name);
+      return name.compareTo(other.name);
     }
   }
   
@@ -207,6 +222,12 @@
       
       // Allowed:
       Arrays.sort(students);
+
+      //Not Allowed:
+      System.out.println("Result= " + student.compareTo("Mary")); 
+
+      //Allowed:
+      System.out.println("Result= " + student.compareTo(new Student("Mary"))); 
 
     }
   }

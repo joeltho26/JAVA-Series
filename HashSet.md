@@ -2,3 +2,11 @@
 - Elements are stored in random order based on their hashing values of the element
 - its uses HashMap internally to store data
 - but the data stored is not in key-value pairs
+- Duplicates are not allowed
+- HashSet -> (Object) which has methods like toString(), hashCode(), equals(), etc
+  - equals() methods in hashSet is used while we add elements, if both items to be added have same hash value then the equals methods will throw exception/error
+- 4 types of sets are mostly used,
+  - HashSet
+  - HashMap
+  - LinkedHashSet
+  - LinkedHashMap

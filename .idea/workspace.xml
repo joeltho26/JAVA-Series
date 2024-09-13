@@ -5,65 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9b53485-bf81-4ad5-a929-8008fba3f12e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ArrayDeque.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayList.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/Collections.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/src/Challenge/ChallengeOne/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/src/Challenge/ChallengeOne/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/src/Example/ExampleOne/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concurrent.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashMap.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashSet.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashTable.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreeSet.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vectors.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Challenge/Collection/CardGame/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Challenge/Collection/CardGame/GameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Challenge/Collection/CardGame/PokerGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Challenge/Collection/CardGame/PokerHand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Challenge/Collection/CardGame/Ranking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Challenge/HashMap/AdventureGame/AdventureGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Challenge/HashMap/AdventureGame/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Challenge/HashSet/Task/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Challenge/HashSet/Task/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Challenge/HashSet/Task/TaskData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Challenge/LinkedHashMapAndTreeMap/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Challenge/LinkedHashMapAndTreeMap/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Challenge/LinkedHashMapAndTreeMap/InventoryItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Challenge/LinkedHashMapAndTreeMap/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Challenge/LinkedHashMapAndTreeMap/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Challenge/LinkedHashSetAndTreeSet/BookingAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Challenge/LinkedHashSetAndTreeSet/Theatre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Example/HashMap/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Example/HashMap/ContactData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Example/HashMap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Example/HashMap/MapViewsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Example/HashSet/Contacts/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Example/HashSet/Contacts/ContactData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Example/HashSet/Contacts/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Example/HashSet/PlayingCard/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Example/HashSet/PlayingCard/PlayingCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Example/LinkedHashMapAndTreeMap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Example/LinkedHashMapAndTreeMap/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/Example/LinkedHashSetAndTreeSet/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedHashSet.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstraction/src/Challenge/ChallengeOne/ListItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstraction/src/Challenge/ChallengeOne/MyLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstraction/src/Challenge/ChallengeOne/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstraction/src/Challenge/ChallengeOne/NodeList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstraction/src/Challenge/ChallengeOne/SearchTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstraction/src/Challenge/ChallengeTwo/ArtObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstraction/src/Challenge/ChallengeTwo/Furniture.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstraction/src/Challenge/ChallengeTwo/OrderItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstraction/src/Challenge/ChallengeTwo/ProductForSale.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstraction/src/Challenge/ChallengeTwo/Store.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/ArrayList/ArrayListChallenge/Example/ArrayListChallenge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/ArrayList/ArrayListExample/Example/ArrayListExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/ArrayList/ArrayListExample/Example/GroceryItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/AutoBoxing/Challenge/ChallengeOne/Bank.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/AutoBoxing/Challenge/ChallengeOne/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/AutoBoxing/Challenge/ChallengeOne/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/AutoBoxing/Challenge/ChallengeTwo/Bank.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/AutoBoxing/Challenge/ChallengeTwo/Branch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays-List-ArrayList-LinkedList-Iterator-AutoBoxing/src/AutoBoxing/Challenge/ChallengeTwo/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeOne/Layer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeOne/Line.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeOne/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeOne/Mappable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeOne/Park.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeOne/Point.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeOne/River.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeTwo/LPAStudent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeTwo/LPAStudentComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeTwo/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeTwo/QueryItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeTwo/QueryList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics-NestedClasses-Types/src/Generics/Challenge/ChallengeTwo/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCollections/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCollections/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCollections/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections.md" beforeDir="false" afterPath="$PROJECT_DIR$/Collections.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/Challenge/ChallengeOne/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/Challenge/Collection/Card/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/Challenge/ChallengeOne/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/Challenge/Collection/Card/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/Example/ExampleOne/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/Example/Collection/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics.md" beforeDir="false" afterPath="$PROJECT_DIR$/Generics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashSet.md" beforeDir="false" afterPath="$PROJECT_DIR$/HashSet.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface.md" beforeDir="false" afterPath="$PROJECT_DIR$/Interface.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LambdaExpressions-FunctionalInterfaces-MethodReferences/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaExpressions-FunctionalInterfaces-MethodReferences/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList/Challenge/Playlist/Song.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LambdaExpressions-FunctionalInterfaces-MethodReferences/src/LambdaExpressionsFunctionalInterface/Challenge/ChallengeOne/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaExpressions-FunctionalInterfaces-MethodReferences/src/LambdaExpressionsFunctionalInterface/Challenge/ChallengeOne/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LambdaExpressions-FunctionalInterfaces-MethodReferences/src/LambdaExpressionsFunctionalInterface/Example/ExampleOne/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaExpressions-FunctionalInterfaces-MethodReferences/src/LambdaExpressionsFunctionalInterface/Example/ExampleOne/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TreeSet.md" beforeDir="false" afterPath="$PROJECT_DIR$/TreeSet.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

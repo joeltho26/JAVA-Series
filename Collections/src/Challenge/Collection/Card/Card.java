@@ -1,4 +1,4 @@
-package Challenge.ChallengeOne;
+package Challenge.Collection.Card;
 
 import java.util.ArrayList;
 import java.util.List;
